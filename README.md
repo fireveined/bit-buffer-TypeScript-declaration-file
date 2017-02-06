@@ -1,0 +1,1 @@
+# bit-buffer-TypeScript-declaration-file
